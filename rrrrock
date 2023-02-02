@@ -1,0 +1,11 @@
+<html>
+ <body>
+  <header style="background-color:lightblue">
+   <img src ="https://cdn-icons-png.flaticon.com/128/2809/2809788.png" height="50px"/>
+   <form action="https://panteric.ru/?ysclid=ldmvd8dtcr936479313" target="_blank">
+   <button style="background-color:AliceBlue;border:1px AliceBlue"><font face=>Завести рептилию</button>
+  </header> 
+   <font face=corbel>
+   <h1 style="text-align:centre;color:lightblue"> Экзотический зоопарк</h1>
+ </body>
+</html>
